@@ -20,7 +20,7 @@ header {
     padding: 50px;
     color: white;
     grid-area: header;
-    background-color:rgb(255, 255, 17);
+    background-color:#4bd311;
 }
 .header-content{
     display: flex;
@@ -120,6 +120,7 @@ section {
     border-radius: 2rem;
     padding: 25px;
     max-width:80%;
+    margin-left: 0.5%;
 }
 
 
@@ -153,7 +154,7 @@ main {
 
 footer{
     grid-area: footer;
-    background-color: darkturquoise;
+    background-color: rgb(0, 209, 35);
     padding: 50px;
     
 }
